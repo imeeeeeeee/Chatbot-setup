@@ -1,0 +1,5 @@
+transformers>=4.30.0
+datasets>=2.0.0
+torch>=1.10.0
+safetensors>=0.2.5
+peft>=0.2.0
